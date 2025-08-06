@@ -18,6 +18,119 @@ CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channe
 CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
 军事评论,http://111.29.9.33:6410/200000001898/460000089800010080/1.m3u8?
 CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+08-06-2025 Zhejiang checked •1920x1080 FasterFaster
+千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+08-06-2025 Guangdong checked •1280x720 Fast
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+08-06-2025 Guangdong checked •1920x1080 FasterFaster
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+08-06-2025 Guangdong checked •1920x1080 FasterFaster
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+08-06-2025 checked •1920x1080 Fast
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+08-06-2025 Guangdong checked •1280x720 FasterFaster
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+08-06-2025 Zhejiang checked •1920x1080 Fast
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+08-06-2025 Shandong checked •1920x1080 Fast
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+08-06-2025 Shanxi checked •1280x720 FasterFaster
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+08-05-2025 Guangdong checked •1920x1080 Fast
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+08-05-2025 Guangxi checked •1920x1080 FasterFaster
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+08-05-2025 Guangdong checked •1280x720 FasterFaster
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+08-05-2025 Ho Chi Minh checked •1920x1080
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+08-05-2025 Guangdong checked •960x540 FasterFaster
+无线翡翠4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+08-05-2025 Guangdong checked •1920x1080 Fast
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+08-05-2025 Guangdong checked •1280x720 Fast
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+08-05-2025 Guangdong checked •1920x1080 FasterFaster
+有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+08-05-2025 Guangdong checked •1920x1080 FasterFaster
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+08-04-2025 Chongqing checked •1280x720 Fast
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+08-04-2025 Guangdong checked •1280x720 Fast
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+08-03-2025 Guangxi checked •1280x720 Fast
+华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
+08-03-2025 Fujian checked •1280x720
+有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+08-03-2025 Guangdong checked •1920x1080
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+08-02-2025 checked •1920x1080
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+08-02-2025 Guangdong checked •1280x720
+无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
+07-30-2025 Guangdong checked •1280x720 Fast
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+08-06-2025 Guangdong checked •1920x1080 Fast
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+08-06-2025 Beijing checked •1280x720 Fast
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+08-06-2025 Zhejiang checked •1920x1080 Fast
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+08-05-2025 Guangdong checked •1280x720 FasterFaster
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+08-05-2025 Guangxi checked •1920x1080 Fast
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+08-05-2025 Guangdong checked •1280x720 Fast
+翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+08-05-2025 Guangdong checked •1920x1080 Fast
+翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+07-31-2025 Guangdong checked •852x480 FasterFaster
+翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+08-06-2025 Guangdong checked •1280x720
+翡翠台8,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+08-06-2025 Guangdong checked •1920x1080 FasterFaster
+翡翠台5,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+08-04-2025 checked •852x480 Fast
+翡翠台9,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+07-28-2025 Guangdong checked •852x480 FastestFastestFastest
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+08-06-2025 Guangdong checked •1280x720 Fast
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+08-05-2025 Guangdong checked •1280x720 Fast
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+08-05-2025 Guangdong checked •1920x1080 Fast
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+08-05-2025 Guangdong checked •1280x720 Fast
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+08-03-2025 Guangdong checked •1280x720 FasterFaster
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+07-31-2025 Guangdong checked •1280x720 FasterFaster
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+07-28-2025 Guangdong checked •1280x720 FasterFaster
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+07-28-2025 Guangdong checked •852x480 FasterFaster
+﻿无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+08-06-2025 Guangdong checked •1920x1080
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+08-06-2025 Liaoning checked •1920x1080 FasterFaster
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+08-05-2025 Kuala Lumpur checked •1280x720 Fast
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+08-05-2025 checked •1920x1080
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+08-05-2025 Guangdong checked •1920x1080 FasterFaster
+广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+08-02-2025 Heilongjiang checked •1920x1080 FasterFaster
+TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+08-06-2025 Guangxi checked •1920x1080
+TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+08-06-2025 Guangdong checked •1920x1080 FasterFaster
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+08-05-2025 Guangdong checked •1920x1080
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 NewTV动作电影,http://39.137.75.229/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
 04-28-2025 checked
 NewTV金牌综艺,http://39.137.75.229/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=no
@@ -162,112 +275,6 @@ CCTV9,http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-i
 CCTV7,http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
 04-28-2025 checked
 CCTV1,http://39.137.75.234/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-08-06-2025 Zhejiang checked •1920x1080 FasterFaster
-千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-08-06-2025 Guangdong checked •1280x720 Fast
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-08-06-2025 Guangdong checked •1920x1080 FasterFaster
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-08-06-2025 Guangdong checked •1920x1080 FasterFaster
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-08-06-2025 checked •1920x1080 Fast
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-08-06-2025 Guangdong checked •1280x720 FasterFaster
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-08-06-2025 Zhejiang checked •1920x1080 Fast
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-08-06-2025 Shandong checked •1920x1080 Fast
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-08-06-2025 Shanxi checked •1280x720 FasterFaster
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-08-05-2025 Guangdong checked •1920x1080 Fast
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-08-05-2025 Guangxi checked •1920x1080 FasterFaster
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-08-05-2025 Guangdong checked •1280x720 FasterFaster
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-08-05-2025 Ho Chi Minh checked •1920x1080
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-08-05-2025 Guangdong checked •960x540 FasterFaster
-无线翡翠4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-08-05-2025 Guangdong checked •1920x1080 Fast
-TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-08-05-2025 Guangdong checked •1280x720 Fast
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-08-05-2025 Guangdong checked •1920x1080 FasterFaster
-有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-08-05-2025 Guangdong checked •1920x1080 FasterFaster
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-08-04-2025 Chongqing checked •1280x720 Fast
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-08-04-2025 Guangdong checked •1280x720 Fast
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-08-03-2025 Guangxi checked •1280x720 Fast
-华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-08-03-2025 Fujian checked •1280x720
-有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-08-03-2025 Guangdong checked •1920x1080
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-08-02-2025 checked •1920x1080
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-08-02-2025 Guangdong checked •1280x720
-无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-07-30-2025 Guangdong checked •1280x720 Fast
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-08-06-2025 Guangdong checked •1920x1080 Fast
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-08-06-2025 Beijing checked •1280x720 Fast
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-08-06-2025 Zhejiang checked •1920x1080 Fast
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-08-05-2025 Guangdong checked •1280x720 FasterFaster
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-08-05-2025 Guangxi checked •1920x1080 Fast
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-08-05-2025 Guangdong checked •1280x720 Fast
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-08-05-2025 Guangdong checked •1920x1080 Fast
-翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-07-31-2025 Guangdong checked •852x480 FasterFaster
-翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-08-06-2025 Guangdong checked •1280x720
-翡翠台8,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-08-06-2025 Guangdong checked •1920x1080 FasterFaster
-翡翠台5,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-08-04-2025 checked •852x480 Fast
-翡翠台9,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-07-28-2025 Guangdong checked •852x480 FastestFastestFastest
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-08-06-2025 Guangdong checked •1280x720 Fast
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-08-05-2025 Guangdong checked •1280x720 Fast
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-08-05-2025 Guangdong checked •1920x1080 Fast
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-08-05-2025 Guangdong checked •1280x720 Fast
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-08-03-2025 Guangdong checked •1280x720 FasterFaster
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-07-31-2025 Guangdong checked •1280x720 FasterFaster
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-07-28-2025 Guangdong checked •1280x720 FasterFaster
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-07-28-2025 Guangdong checked •852x480 FasterFaster
-﻿无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-08-06-2025 Guangdong checked •1920x1080
-凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-08-06-2025 Liaoning checked •1920x1080 FasterFaster
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-08-05-2025 Kuala Lumpur checked •1280x720 Fast
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-08-05-2025 checked •1920x1080
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-08-05-2025 Guangdong checked •1920x1080 FasterFaster
-广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-08-02-2025 Heilongjiang checked •1920x1080 FasterFaster
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 探索世界,http://61.221.215.25:8800/hls/1/index.m3u8
 鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
