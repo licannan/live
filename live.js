@@ -1,52 +1,167 @@
 移动电视,#genre#
-CCTV1,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://39.135.135.41/wh7f454c46tw1956839526_-720028145/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://39.135.133.143:80/wh7f454c46tw3883039393_1350507801/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV5,http://39.135.133.180:80/wh7f454c46tw3059626507_1115377051/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://39.135.133.160:80/wh7f454c46tw815825316_1869660779/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://39.135.133.138:80/wh7f454c46tw3956597683_752876325/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://39.135.135.87:80/wh7f454c46tw2873190982_1895894916/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://39.135.135.89/wh7f454c46tw2455259066_1476037611/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://39.135.135.38:80/wh7f454c46tw3068146099_1416323000/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://39.135.135.75:80/wh7f454c46tw3174010574_114826437/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://39.135.135.82:80/wh7f454c46tw3288020814_556075169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12,http://39.135.135.11:80/wh7f454c46tw3331173441_1770138386/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://39.135.135.59/wh7f454c46tw2865102463_-1959664190/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV14,http://39.135.133.158:80/wh7f454c46tw738317307_-1850621911/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-CCTV15,http://39.134.65.87:80/wh7f454c46tw3678048063_1995458946/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://39.135.135.88:80/wh7f454c46tw3757071990_771002896/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-哒啵赛事,http://39.135.133.170:80/wh7f454c46tw2157891051_572467609/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-黑莓动画,http://39.135.133.157:80/wh7f454c46tw2084073336_2046103814/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-黑莓电影,http://39.135.133.138:80/wh7f454c46tw876799806_-1237032719/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-全民热练,http://39.135.133.144:80/wh7f454c46tw2411315756_-1171165178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-爱情喜剧,http://39.134.65.82:80/wh7f454c46tw972760835_-1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-惊悚悬疑,http://39.134.65.89:80/wh7f454c46tw1025099337_-139314205/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-欢乐剧场,http://39.135.135.28:80/wh7f454c46tw1906354268_1748047542/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-精品大剧,http://39.134.65.73:80/wh7f454c46tw620684259_1207662296/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-古装剧场,http://39.134.65.73:80/wh7f454c46tw1189323424_1519965141/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-超级电视剧,http://39.135.133.156:80/wh7f454c46tw1360290221_-837479301/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电影,http://39.134.65.3:80/wh7f454c46tw995071704_-1873696206/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-东北热剧,http://39.134.65.74:80/wh7f454c46tw1823569370_952931068/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-家庭剧场,http://39.134.65.3:80/wh7f454c46tw1479032835_1793140886/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-精品综艺,http://39.135.133.174:80/wh7f454c46tw1900559758_-1815720645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-超级体育,http://39.134.65.66:80/wh7f454c46tw1054819277_1189057163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级综艺,http://39.134.65.4:80/wh7f454c46tw1127286212_-1581107953/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-军旅剧场,http://39.134.65.76:80/wh7f454c46tw1315043639_-1059421101/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-精品萌宠,http://39.135.133.139:80/wh7f454c46tw1555583023_1374588280/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-精品体育,http://39.134.65.6:80/wh7f454c46tw795311082_-1024165673/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-精品纪录,http://39.134.65.74:80/wh7f454c46tw696975095_-577841645/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-怡伴健康,http://39.134.65.67:80/wh7f454c46tw1834769052_-1738341408/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-潮妈辣婆,http://39.134.65.70:80/wh7f454c46tw1933284823_1929264018/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-金牌综艺,http://39.135.135.24:80/wh7f454c46tw1624655335_1622057483/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-武博世界,http://39.134.65.64:80/wh7f454c46tw1993460437_1085871859/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-军事评论,http://39.134.65.3:80/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-中国功夫,http://39.134.65.62:80/wh7f454c46tw2070901039_-123359714/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-BTV纪实科教,http://39.134.65.4:80/wh7f454c46tw3372582359_-1251220972/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-农业致富,http://39.134.65.76:80/wh7f454c46tw1761336088_834673900/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-热播精选,http://39.135.133.157:80/wh7f454c46tw2012060834_1130688400/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
+02-21-2025 Sichuan checked •1920x1080 FasterFaster
+CCTV6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
+02-08-2025 Guangdong checked •1920x1080 Fast
+CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
+02-06-2025 checked
+CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
+02-06-2025 checked
+CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
+02-06-2025 checked
+CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
+02-06-2025 checked
+CCTV7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
+02-06-2025 checked
+CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
+02-06-2025 checked
+CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
+军事评论,http://111.29.9.33:6410/200000001898/460000089800010080/1.m3u8?
+CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
+NewTV动作电影,http://39.137.75.229/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=no
+04-28-2025 checked
+NewTV金牌综艺,http://39.137.75.229/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=no
+04-28-2025 checked
+NewTV惊悚悬疑,http://39.137.75.229/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=no
+04-28-2025 checked
+NewTV精品大剧,http://39.137.75.229/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=no
+04-28-2025 checked
+NewTV精品纪录,http://39.137.75.229/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=no
+04-28-2025 checked
+NewTV精品综合,http://39.137.75.229/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=no
+04-28-2025 checked
+中国教育2,http://39.137.75.229/000000001000/1000000005000266004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=no
+04-28-2025 checked
+咪咕视频,http://39.137.75.229/000000001000/1000000006000270002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=no
+05-03-2025 Gansu checked •1920x1080 FasterFaster
+江西卫视,http://39.137.75.229/000000001000/1000000005000265032/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265032&livemode=1&stbId=no
+04-30-2025 Jiangxi checked •1920x1080 Fast
+兵团卫视,http://39.137.75.229/000000001000/1000000005000266005/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=no
+04-28-2025 checked
+海南卫视,http://39.137.75.229/000000001000/1000000002000023773/index.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=no
+04-28-2025 checked
+金鹰纪实,http://39.137.75.229/000000001000/1000000002000011724/index.m3u8?channel-id=ystenlive&Contentid=1000000002000011724&livemode=1&stbId=no
+04-28-2025 checked
+吉林卫视,http://39.137.75.229/000000001000/1000000002000027730/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=no
+04-28-2025 checked
+咪咕视频,http://39.137.75.229/000000001000/1000000006000270001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=no
+04-28-2025 checked
+青海卫视,http://39.137.75.229/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
+04-28-2025 checked
+东方卫视,http://39.137.75.229/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=no
+04-28-2025 checked
+哈哈炫动,http://39.137.75.229/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=no
+04-28-2025 checked
+CCTV4,http://39.137.75.229/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
+黑莓电影,http://39.137.75.230/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=no
+07-30-2025 Jilin checked •1920x1080 FasterFaster
+湖北卫视,http://39.137.75.230/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=no
+07-28-2025 Guangdong checked •1920x1080
+CCTV16,http://39.137.75.230/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=no
+07-31-2025 Shanxi checked •1920x1080
+NewTV超级电视剧,http://39.137.75.230/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=no
+04-28-2025 checked
+山东教育卫视,http://39.137.75.230/000000001000/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=no
+04-28-2025 checked
+NewTV超级电影,http://39.137.75.230/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=no
+04-28-2025 checked
+NewTV超级体育,http://39.137.75.230/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=no
+04-28-2025 checked
+NewTV精品萌宠,http://39.137.75.230/000000001000/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=no
+04-28-2025 checked
+NewTV精品体育,http://39.137.75.230/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no
+04-28-2025 checked
+NewTV炫舞未来,http://39.137.75.230/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no
+04-28-2025 checked
+Newt家庭剧场,http://39.137.75.230/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=no
+07-18-2025 Shaanxi checked •1920x1080 FasterFaster
+黑龙江卫视,http://39.137.75.230/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=no
+04-28-2025 checked
+中国教育4,http://39.137.75.230/000000001000/1000000005000025333/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025333&livemode=1&stbId=no
+04-28-2025 checked
+黑莓动画,http://39.137.75.230/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=no
+07-19-2025 Guangdong checked •1920x1080 Fast
+广东卫视,http://39.137.75.230/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=no
+05-22-2025 Guangdong checked •1920x1080 FasterFaster
+新疆卫视,http://39.137.75.230/000000001000/1000000002000029441/index.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=no
+05-22-2025 Guangdong checked •720x576 FasterFaster
+卡酷少儿,http://39.137.75.230/000000001000/1000000002000002413/index.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1&stbId=no
+05-08-2025 Zhejiang checked •1024x576 Fast
+东南卫视,http://39.137.75.230/000000001000/1000000002000009263/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=no
+04-28-2025 checked
+北京卫视,http://39.137.75.230/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=no
+04-28-2025 checked
+广西卫视,http://39.137.75.230/000000001000/1000000002000019837/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=no
+04-28-2025 checked
+河南卫视,http://39.137.75.230/000000001000/1000000002000027731/index.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=no
+04-28-2025 checked
+纪实科教,http://39.137.75.230/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=no
+04-28-2025 checked
+天津卫视,http://39.137.75.230/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=no
+04-28-2025 checked
+浙江卫视,http://39.137.75.230/000000001000/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=no
+04-28-2025 checked
+延边卫视,http://39.137.75.230/000000001000/1000000005000266008/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266008&livemode=1&stbId=no
+04-28-2025 checked
+优漫卡通,http://39.137.75.230/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=no
+04-28-2025 checked
+辽宁卫视,http://39.137.75.230/000000001000/1000000002000024033/index.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1&stbId=no
+04-28-2025 checked
+陕西卫视,http://39.137.75.230/000000001000/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=no
+04-28-2025 checked
+纪实人文,http://39.137.75.230/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=no
+04-28-2025 checked
+CCTV10,http://39.137.75.230/000000001000/1000000005000265010/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=no
+CCTV13,http://39.137.75.230/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=no
+04-28-2025 checked
+CCTV11,http://39.137.75.230/000000001000/1000000005000265011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=no
+04-28-2025 checked
+CCTV2,http://39.137.75.230/000000001000/1000000005000265002/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=no
+05-14-2025 Henan checked •1920x1080 FasterFaster
+CCTV1,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
+湖南卫视,http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
+08-04-2025 Beijing checked •1920x1080 FasterFaster
+NewTV超级综艺,http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=no
+04-28-2025 checked
+内蒙古卫视,http://39.137.75.234/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=no
+04-28-2025 checked
+贵州卫视,http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+06-02-2025 Guizhou checked •1920x1080 Fast
+四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+05-20-2025 Shandong checked •1920x1080 Fast
+安徽卫视,http://39.137.75.234/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=no
+05-16-2025 Guangdong checked •1920x1080
+重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
+04-28-2025 checked
+深圳卫视,http://39.137.75.234/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=no
+04-28-2025 checked
+山西卫视,http://39.137.75.234/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=no
+04-28-2025 checked
+厦门卫视,http://39.137.75.234/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=no
+04-28-2025 checked
+宁夏卫视,http://39.137.75.234/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=no
+04-28-2025 checked
+金鹰卡通,http://39.137.75.234/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=no
+04-28-2025 checked
+河北卫视,http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+04-28-2025 checked
+甘肃卫视,http://39.137.75.234/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=no
+04-28-2025 checked
+CCTV17,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
+04-28-2025 checked
+CCTV15,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
+04-28-2025 checked
+CCTV14,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=no
+04-28-2025 checked
+CCTV12,http://39.137.75.234/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
+04-28-2025 checked
+CCTV4,http://39.137.75.234/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
+05-02-2025 Guangdong checked •1920x1080
+CCTV9,http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+04-28-2025 checked
+CCTV7,http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+04-28-2025 checked
+CCTV1,http://39.137.75.234/000000001000/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=no
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -245,26 +360,6 @@ CCTV17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?chann
 02-06-2025 checked
 乐游,http://111.29.9.33:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 02-06-2025 checked
-CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
-02-21-2025 Sichuan checked •1920x1080 FasterFaster
-CCTV6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
-02-08-2025 Guangdong checked •1920x1080 Fast
-CCTV2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
-02-06-2025 checked
-CCTV3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
-02-06-2025 checked
-CCTV5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
-02-06-2025 checked
-
-CCTV7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
-02-06-2025 checked
-CCTV9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
-军事评论,http://111.29.9.33:6410/200000001898/460000089800010080/1.m3u8?
-CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
 深圳卫视,http://111.29.9.33:6410/200000001898/460000089800010068/1.m3u8?
 安徽卫视,http://111.29.9.33:6410/200000001898/460000089800010041/1.m3u8?
 东方卫视,http://111.29.9.33:6410/200000001898/460000089800010054/1.m3u8?
@@ -625,47 +720,6 @@ CGTN,http://111.29.9.33:6410/200000001898/460000089800010137/1.m3u8?
 北京纪实科教,http://111.29.9.33:6610/000000001000/1000000001000028380/index.m3u8?channel-id=bestzb&Contentid=1000000001000028380&livemode=1&stbId=3
 02-06-2025 checked
 英雄联盟音乐节,http://111.29.9.33:6410/200000001898/460000089800010090/1.m3u8?
-北京卫视,http://39.135.135.11:80/wh7f454c46tw1614955021_-2080436109/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-东方卫视,http://39.135.133.174:80/wh7f454c46tw4120819765_-1012470760/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-湖南卫视,http://39.134.65.71:80/wh7f454c46tw1199870867_1956939961/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖北卫视,http://39.134.65.70:80/wh7f454c46tw2033025325_101919628/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-河北卫视,http://39.134.65.70:80/wh7f454c46tw2408451422_1767751653/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
-安徽卫视,http://39.135.133.181:80/wh7f454c46tw1868742531_358551099/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-大湾区卫视,http://39.135.133.153:80/wh7f454c46tw4143549537_1378151352/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-广东卫视,http://39.135.133.177:80/wh7f454c46tw1795581319_-1194261384/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-天津卫视,http://39.135.135.14:80/wh7f454c46tw2183431869_-601389287/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-深圳卫视,http://39.135.135.44:80/wh7f454c46tw2107180814_2101585369/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-江苏卫视,http://39.134.65.77:80/wh7f454c46tw1423905495_-25665477/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-浙江卫视,http://39.134.65.71:80/wh7f454c46tw1463100067_1701166012/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-山东卫视,http://39.134.65.79:80/wh7f454c46tw3436487431_-341613872/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-四川卫视,http://39.135.133.150:80/wh7f454c46tw2508666225_725539629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-江西卫视,http://39.135.133.175:80/wh7f454c46tw2445534347_-1810556241/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-贵州卫视,http://39.135.133.150:80/wh7f454c46tw2662058177_1170447983/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-山西卫视,http://39.134.65.8:80/wh7f454c46tw3066909229_1671157978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-广西卫视,http://39.135.133.160:80/wh7f454c46tw2315245333_1437523892/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-青海卫视,http://39.134.65.76:80/wh7f454c46tw3018771670_1594237566/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-陕西卫视,http://39.134.65.2:80/wh7f454c46tw3141546647_-1528198028/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-河南卫视,http://39.135.133.163:80/wh7f454c46tw1927674075_-1027858324/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-重庆卫视,http://39.134.65.75:80/wh7f454c46tw1967149281_1598774497/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-甘肃卫视,http://39.134.65.67:80/wh7f454c46tw2924315473_-2125419063/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-内蒙古卫视,http://39.134.65.78:80/wh7f454c46tw2737065428_-1370817042/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-新疆卫视,http://39.135.133.147:80/wh7f454c46tw3181238984_-1116813226/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-兵团卫视,http://39.135.133.178:80/wh7f454c46tw3550507069_-1531203046/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-西藏卫视,http://39.134.65.72:80/wh7f454c46tw2674870774_1369414490/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-云南卫视,http://39.135.133.180:80/wh7f454c46tw1995534970_-1227480660/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-宁夏卫视,http://39.134.65.7:80/wh7f454c46tw3190574135_-983791785/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-东南卫视,http://39.135.133.170:80/wh7f454c46tw2364389302_1789027315/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-海南卫视,http://39.134.65.75:80/wh7f454c46tw3251724373_-821302670/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-康巴卫视,http://39.134.65.65:80/wh7f454c46tw2805843568_-1293760037/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-金鹰卡通,http://39.134.65.4:80/wh7f454c46tw451157572_-1791509164/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-卡酷少儿,http://39.134.65.3/wh7f454c46tw405051125_95210746/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-优漫卡通,http://39.134.65.75:80/wh7f454c46tw530697263_-1104599169/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-哈哈炫动,http://39.135.133.181:80/wh7f454c46tw3418215723_1167620644/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-纪实人文,http://39.134.65.87:80/wh7f454c46tw3296273718_-352803491/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海卫视,http://39.135.135.28:80/wh7f454c46tw1673622604_110667976/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-吉林卫视,http://39.135.133.161:80/wh7f454c46tw2035475484_350672847/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-辽宁卫视,http://39.134.65.4:80/wh7f454c46tw1549112654_332518043/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-BTV纪实科教,http://39.134.65.4:80/wh7f454c46tw3372582359_-1251220972/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
