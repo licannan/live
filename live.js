@@ -641,6 +641,128 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+广东卫视嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
+08-20-2024 Guangdong checked FasterFaster
+湖南卫视金鹰纪实,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/600/index.m3u8?&encrypt=
+08-19-2024 Shandong checked Fast
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
+10-01-2025 Sichuan checked •1280x720 FasterFaster
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
+09-10-2024 Beijing checked Fast
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
+08-05-2024 Guangdong checked Fast
+华视火爆劲片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
+06-03-2025 Hunan checked Fast
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?&encrypt=
+09-11-2024 Guangdong checked Fast
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?&encrypt=
+09-11-2024 Tianjin checked FasterFaster
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
+09-11-2024 Guangdong checked Fast
+上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/600/index.m3u8?&encrypt=
+08-21-2024 Fujian checked Fast
+上视纪实人文,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/1000/index.m3u8?&encrypt=
+08-20-2024 Fujian checked Fast
+江苏体育休闲,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?&encrypt=
+08-19-2024 Beijing checked Fast
+每日科幻电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=
+08-16-2024 Anhui checked Fast
+上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
+08-01-2024 Guangdong checked FasterFaster
+SDETV山东教育,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/shandongedu/1000/index.m3u8?&encrypt=
+08-09-2024 Yunnan checked Fast
+云上电影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
+06-10-2025 Yunnan checked Fast
+新片放映厅,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?&encrypt=
+09-11-2024 Beijing checked
+周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=
+09-11-2024 New Taipei City checked Fast
+周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/50/index.m3u8?&encrypt=
+09-11-2024 Fujian checked Fast
+云上直播间,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/150/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked Fast
+内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked Fast
+成龙作品集,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/50/index.m3u8?&encrypt=
+08-16-2024 Yunnan checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/75/index.m3u8?&encrypt=
+07-13-2024 Guangdong checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?&encrypt=
+07-12-2024 Guangdong checked FasterFaster
+山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
+07-06-2025 Tianjin checked Fast
+山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
+06-28-2025 Guangxi checked FasterFaster
+追剧少女,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002089-75/index.m3u8?&encrypt=
+08-21-2024 Zhejiang checked Fast
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked 
+怀旧老片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/150/index.m3u8?&encrypt=
+08-20-2024 Hebei checked FasterFaster
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-600/index.m3u8?&encrypt=
+08-20-2024 Shandong checked FasterFaster
+江苏影视,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&encrypt=
+08-19-2024 Shandong checked Fast
+宁夏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?&encrypt=
+08-18-2024 Heilongjiang checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=
+08-18-2024 Guangxi checked
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+军旅剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/50/index.m3u8?&encrypt=
+08-17-2024 Guangdong checked Fast
+南方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
+08-09-2024 Yunnan checked Fast
+试胆大会,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
+07-15-2024 Yunnan checked Fast
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
+06-18-2024 Chongqing checked FasterFaster
+红楼剧场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100178536/150/index.m3u8?&encrypt=
+06-18-2024 Guangdong checked FasterFaster
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+06-17-2024 Shanxi checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?&encrypt=
+06-16-2024 Jiangsu checked FasterFaster
+CCTV5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?&encrypt=
+09-11-2024 Sichuan checked Fast
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked FasterFaster
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
+08-16-2024 Henan checked Fast
+CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?&encrypt=
+08-16-2024 Henan checked Fast
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+06-17-2024 Guangdong checked FasterFaster
+CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+06-13-2024 Beijing checked FasterFaster
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?&encrypt=
+08-21-2024 Shanghai checked Fast
+CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
+08-21-2024 Shanghai checked Fast
+CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
+08-21-2024 Shaanxi checked Fast
+CCTV1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
+08-20-2024 Yunnan checked Fast
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+08-19-2024 Sichuan checked FasterFaster
+CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
+07-15-2024 Shanxi checked Fast
+CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+07-15-2024 Shanxi checked Fast
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+07-12-2024 Arizona checked Fast
+CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
+06-17-2024 Shanxi checked FasterFaster
+CCTV4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
