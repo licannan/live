@@ -1,3 +1,4 @@
+电视直播,#genre#
 广东卫视嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
 08-20-2024 Guangdong checked FasterFaster
 湖南卫视金鹰纪实,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/600/index.m3u8?&encrypt=
@@ -259,3 +260,4 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
