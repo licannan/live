@@ -1,507 +1,125 @@
-电视直播,#genre#
-CCTV-1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
-02-21-2025 Sichuan checked •1920x1080 FasterFaster
-CCTV-5,http://111.29.9.33:6410/200000001898/460000089800010139/1.m3u8?
-02-14-2025 Isfahan checked •1920x1080
-CCTV-5,http://111.29.9.33:6410/200000001898/460000089800010145/1.m3u8?
-02-14-2025 Tehran checked •1920x1080
-CCTV-1,http://111.29.9.33:6410/200000001898/460000089800010144/1.m3u8?007
-02-13-2025 checked
-CCTV-2,http://111.29.9.33:6410/200000001898/460000089800010211/1.m3u8?
-02-13-2025 checked
-CCTV-1,http://111.29.9.33:6410/200000001898/460000089800010011/1.m3u8?
-02-13-2025 checked
-CCTV-3,http://111.29.9.33:6410/200000001898/460000089800010212/1.m3u8?
-02-13-2025 checked
-CCTV-4,http://111.29.9.33:6410/200000001898/460000089800010017/1.m3u8?
-02-13-2025 checked
-CCTV-6,http://111.29.9.33:6410/200000001898/460000089800010214/1.m3u8?
-02-13-2025 checked
-CCTV-7,http://111.29.9.33:6410/200000001898/460000089800010215/1.m3u8?
-02-13-2025 checked
-CCTV-8,http://111.29.9.33:6410/200000001898/460000089800010216/1.m3u8?
-02-13-2025 checked
-CCTV-9,http://111.29.9.33:6410/200000001898/460000089800010052/1.m3u8?
-02-13-2025 checked
-CCTV-9,http://111.29.9.33:6410/200000001898/460000089800010217/1.m3u8?
-02-13-2025 checked
-CCTV-6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
-02-08-2025 Guangdong checked •1920x1080 Fast
-CCTV-2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
-CCTV-5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV-1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
-02-21-2025 Sichuan checked •1920x1080 FasterFaster
-CCTV-6,http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
-02-08-2025 Guangdong checked •1920x1080 Fast
-CCTV-2,http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-3,http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-4,http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-5,http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-7,http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-8,http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-9,http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
-军事评论,http://111.29.9.33:6410/200000001898/460000089800010080/1.m3u8?
-CCTV-13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
-CCTV-13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
-03-02-2025 Hainan checked •1920x1080 Fast
-中国教育1台,http://111.29.9.33:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-02-06-2025 checked
-中国教育4台,http://111.29.9.33:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-02-06-2025 checked
-黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
-02-06-2025 checked
-超级电视剧,http://111.29.9.33:6610/000000001000/1000000001000008139/index.m3u8?channel-id=bestzb&Contentid=1000000001000008139&livemode=1&stbId=3
-02-06-2025 checked
-北京纪实科教,http://111.29.9.33:6610/000000001000/1000000001000028380/index.m3u8?channel-id=bestzb&Contentid=1000000001000028380&livemode=1&stbId=3
-02-06-2025 checked
-欢笑剧场4K,http://111.29.9.33:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-02-06-2025 checked
-动漫秀场,http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-02-13-2025 Guangdong checked •1920x1080 Fast
-河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-02-12-2025 Shandong checked •1920x1080 FasterFaster
-贵州卫视,http://111.29.9.33:6610/000000001000/1000000002000003169/index.m3u8?channel-id=bestzb&Contentid=1000000002000003169&livemode=1&stbId=3
-02-08-2025 Vega Baja checked •1920x1080
-河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
-02-07-2025 Vega Baja checked •1920x1080
-北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3
-02-06-2025 checked
-东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
-02-06-2025 checked
-天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
-02-06-2025 checked
-重庆卫视,http://111.29.9.33:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3
-02-06-2025 checked
-湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
-02-06-2025 checked
-浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3
-02-06-2025 checked
-深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
-02-06-2025 checked
-山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
-02-06-2025 checked
-湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3
-02-06-2025 checked
-安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
-02-06-2025 checked
-江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
-02-06-2025 checked
-江西卫视,http://111.29.9.33:6610/000000001000/1000000001000013731/index.m3u8?channel-id=bestzb&Contentid=1000000001000013731&livemode=1&stbId=3
-02-06-2025 checked
-广西卫视,http://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3
-02-06-2025 checked
-广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
-02-06-2025 checked
-辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3
-02-06-2025 checked
-吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-02-06-2025 checked
-四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3
-02-06-2025 checked
-云南卫视,http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
-02-06-2025 checked
-甘肃卫视,http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
-青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
-02-06-2025 checked
-东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3
-02-06-2025 checked
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-02-06-2025 checked
-宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
-02-06-2025 checked
-新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
-02-06-2025 checked
-金鹰纪实,http://111.29.9.33:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-02-06-2025 checked
-快乐垂钓,http://111.29.9.33:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-02-06-2025 checked
-都市剧场,http://111.29.9.33:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-02-06-2025 checked
-游戏风云,http://111.29.9.33:6610/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-02-06-2025 checked
-魅力足球,http://111.29.9.33:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-02-06-2025 checked
-生活时尚,http://111.29.9.33:6610/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-02-06-2025 checked
-黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
-02-06-2025 checked
-超级电影,http://111.29.9.33:6610/000000001000/1000000001000012884/index.m3u8?channel-id=bestzb&Contentid=1000000001000012884&livemode=1&stbId=3
-02-06-2025 checked
-家庭剧场,http://111.29.9.33:6610/000000001000/1000000004000008284/index.m3u8?channel-id=bestzb&Contentid=1000000004000008284&livemode=1&stbId=3
-02-06-2025 checked
-惊悚悬疑,http://111.29.9.33:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3
-02-06-2025 checked
-精品大剧,http://111.29.9.33:6610/000000001000/1000000004000013968/index.m3u8?channel-id=bestzb&Contentid=1000000004000013968&livemode=1&stbId=3
-02-06-2025 checked
-明星大片,http://111.29.9.33:6610/000000001000/1000000004000019008/index.m3u8?channel-id=bestzb&Contentid=1000000004000019008&livemode=1&stbId=3
-02-06-2025 checked
-超级体育,http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
-02-06-2025 checked
-超级综艺,http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
-02-06-2025 checked
-金牌综艺,http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
-02-06-2025 checked
-炫舞未来,http://111.29.9.33:6610/000000001000/1000000001000000515/index.m3u8?channel-id=bestzb&Contentid=1000000001000000515&livemode=1&stbId=3
-02-06-2025 checked
-金鹰卡通,http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-02-06-2025 checked
-哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-02-06-2025 checked
-嘉佳卡通,http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-02-06-2025 checked
-黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
-02-06-2025 checked
-茶频道,http://111.29.9.33:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-02-06-2025 checked
-纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
-02-20-2025 Hebei checked •3840x2160 Fast
-CCTV-10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
-02-14-2025 Vega Baja checked •1920x1080 Fast
-CCTV-15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
-02-08-2025 Tokyo checked •1920x1080 Fast
-CCTV-5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
-CCTV-11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
-02-06-2025 checked
-乐游,http://111.29.9.33:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-02-06-2025 checked
-深圳卫视,http://111.29.9.33:6410/200000001898/460000089800010068/1.m3u8?
-安徽卫视,http://111.29.9.33:6410/200000001898/460000089800010041/1.m3u8?
-东方卫视,http://111.29.9.33:6410/200000001898/460000089800010054/1.m3u8?
-吉林卫视,http://111.29.9.33:6410/200000001898/460000089800010075/1.m3u8?
-动漫秀场,http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-广西卫视,http://111.29.9.33:6410/200000001898/460000089800010099/1.m3u8?
-广东卫视,http://111.29.9.33:6410/200000001898/460000089800010055/1.m3u8?
-广东卫视,http://111.29.9.33:6410/200000001898/460000089800010221/1.m3u8?
-02-13-2025 checked
-海南卫视,http://111.29.9.33:6410/200000001898/460000089800010083/1.m3u8?
-02-13-2025 checked
-云南卫视,http://111.29.9.33:6410/200000001898/460000089800010119/1.m3u8?
-02-13-2025 checked
-贵州卫视,http://111.29.9.33:6410/200000001898/460000089800010100/1.m3u8?
-02-13-2025 checked
-东南卫视,http://111.29.9.33:6410/200000001898/460000089800010096/1.m3u8?
-02-13-2025 checked
-江西卫视,http://111.29.9.33:6410/200000001898/460000089800010060/1.m3u8?
-02-13-2025 checked
-湖南卫视,http://111.29.9.33:6410/200000001898/460000089800010058/1.m3u8?
-02-13-2025 checked
-湖南卫视,http://111.29.9.33:6410/200000001898/460000089800010224/1.m3u8?
-02-13-2025 checked
-湖北卫视,http://111.29.9.33:6410/200000001898/460000089800010057/1.m3u8?
-02-13-2025 checked
-湖北卫视,http://111.29.9.33:6410/200000001898/460000089800010223/1.m3u8?
-02-13-2025 checked
-河南卫视,http://111.29.9.33:6410/200000001898/460000089800010071/1.m3u8?
-02-13-2025 checked
-河北卫视,http://111.29.9.33:6410/200000001898/460000089800010101/1.m3u8?
-02-13-2025 checked
-重庆卫视,http://111.29.9.33:6410/200000001898/460000089800010053/1.m3u8?
-02-13-2025 checked
-重庆卫视,http://111.29.9.33:6410/200000001898/460000089800010218/1.m3u8?
-02-13-2025 checked
-四川卫视,http://111.29.9.33:6410/200000001898/460000089800010115/1.m3u8?
-02-13-2025 checked
-浙江卫视,http://111.29.9.33:6410/200000001898/460000089800010070/1.m3u8?
-02-13-2025 checked
-江苏卫视,http://111.29.9.33:6410/200000001898/460000089800010059/1.m3u8?
-02-13-2025 checked
-江苏卫视,http://111.29.9.33:6410/200000001898/460000089800010225/1.m3u8?
-02-13-2025 checked
-东方卫视,http://111.29.9.33:6410/200000001898/460000089800010067/1.m3u8?
-02-13-2025 checked
-东方卫视,http://111.29.9.33:6410/200000001898/460000089800010219/1.m3u8?
-02-13-2025 checked
-山东卫视,http://111.29.9.33:6410/200000001898/460000089800010066/1.m3u8?
-北京卫视,http://111.29.9.33:6410/200000001898/460000089800010143/1.m3u8?
-02-13-2025 checked
-天津卫视,http://111.29.9.33:6410/200000001898/460000089800010069/1.m3u8?
-02-13-2025 checked
-辽宁卫视,http://111.29.9.33:6410/200000001898/460000089800010061/1.m3u8?
-02-13-2025 checked
-陕西卫视,http://111.29.9.33:6410/200000001898/460000089800010113/1.m3u8?
-02-13-2025 checked
-山西卫视,http://111.29.9.33:6410/200000001898/460000089800010114/1.m3u8?
-02-13-2025 checked
-甘肃卫视,http://111.29.9.33:6410/200000001898/460000089800010098/1.m3u8?
-02-13-2025 checked
-宁夏卫视,http://111.29.9.33:6410/200000001898/460000089800010110/1.m3u8?
-02-13-2025 checked
-青海卫视,http://111.29.9.33:6410/200000001898/460000089800010111/1.m3u8?
-02-13-2025 checked
-西藏卫视,http://111.29.9.33:6410/200000001898/460000089800010123/1.m3u8?
-02-13-2025 checked
-新疆卫视,http://111.29.9.33:6410/200000001898/460000089800010116/1.m3u8?
-02-13-2025 checked
-金鹰卡通,http://111.29.9.33:6410/200000001898/460000089800010107/1.m3u8?
-02-13-2025 checked
-优漫卡通,http://111.29.9.33:6410/200000001898/460000089800010118/1.m3u8?
-02-13-2025 checked
-哈哈炫动,http://111.29.9.33:6410/200000001898/460000089800010117/1.m3u8?
-02-13-2025 checked
-嘉佳卡通,http://111.29.9.33:6410/200000001898/460000089800010102/1.m3u8?
-02-13-2025 checked
-睛彩青少,http://111.29.9.33:6410/200000001898/460000089800010147/1.m3u8?
-02-13-2025 checked
-黑莓电影,http://111.29.9.33:6410/200000001898/460000089800010073/1.m3u8?
-02-13-2025 checked
-黑莓动画,http://111.29.9.33:6410/200000001898/460000089800010002/1.m3u8?
-02-13-2025 checked
-哒啵赛事,http://111.29.9.33:6410/200000001898/460000089800010120/1.m3u8?
-02-13-2025 checked
-超级电影,http://111.29.9.33:6410/200000001898/460000089800010064/1.m3u8?
-02-13-2025 checked
-动作电影,http://111.29.9.33:6410/200000001898/460000089800010003/1.m3u8?
-02-13-2025 checked
-家庭剧场,http://111.29.9.33:6410/200000001898/460000089800010074/1.m3u8?
-02-13-2025 checked
-惊悚悬疑,http://111.29.9.33:6410/200000001898/460000089800010077/1.m3u8?
-02-13-2025 checked
-精品大剧,http://111.29.9.33:6410/200000001898/460000089800010072/1.m3u8?
-02-13-2025 checked
-明星大片,http://111.29.9.33:6410/200000001898/460000089800010084/1.m3u8?
-02-13-2025 checked
-热播精选,http://111.29.9.33:6410/200000001898/460000089800010121/1.m3u8?
-02-13-2025 checked
-军旅剧场,http://111.29.9.33:6410/200000001898/460000089800010079/1.m3u8?
-02-13-2025 checked
-古装剧场,http://111.29.9.33:6410/200000001898/460000089800010004/1.m3u8?
-02-13-2025 checked
-欢乐剧场,http://111.29.9.33:6410/200000001898/460000089800010025/1.m3u8?
-02-13-2025 checked
-东北热剧,http://111.29.9.33:6410/200000001898/460000089800010021/1.m3u8?
-02-13-2025 checked
-爱情喜剧,http://111.29.9.33:6410/200000001898/460000089800010000/1.m3u8?
-精品纪录,http://111.29.9.33:6410/200000001898/460000089800010076/1.m3u8?
-02-13-2025 checked
-超级体育,http://111.29.9.33:6410/200000001898/460000089800010063/1.m3u8?
-02-13-2025 checked
-精品体育,http://111.29.9.33:6410/200000001898/460000089800010078/1.m3u8?
-02-13-2025 checked
-中国功夫,http://111.29.9.33:6410/200000001898/460000089800010087/1.m3u8?
-02-13-2025 checked
-超级综艺,http://111.29.9.33:6410/200000001898/460000089800010062/1.m3u8?
-02-13-2025 checked
-金牌综艺,http://111.29.9.33:6410/200000001898/460000089800010086/1.m3u8?
-02-13-2025 checked
-炫舞未来,http://111.29.9.33:6410/200000001898/460000089800010039/1.m3u8?
-02-13-2025 checked
-农业致富,http://111.29.9.33:6410/200000001898/460000089800010085/1.m3u8?
-02-13-2025 checked
-精品萌宠,http://111.29.9.33:6410/200000001898/460000089800010146/1.m3u8?
-02-13-2025 checked
-潮妈辣婆,http://111.29.9.33:6410/200000001898/460000089800010005/1.m3u8?
-02-13-2025 checked
-怡伴健康,http://111.29.9.33:6410/200000001898/460000089800010082/1.m3u8?
-02-13-2025 checked
-金鹰纪实,http://111.29.9.33:6410/200000001898/460000089800010106/1.m3u8?
-02-13-2025 checked
-广东珠江,http://111.29.9.33:6410/200000001898/460000089800010091/1.m3u8?
-02-13-2025 checked
-家有购物,http://111.29.9.33:6410/200000001898/460000089800010089/1.m3u8?
-02-13-2025 checked
-家有购物,http://111.29.9.33:6410/200000001898/460000089800010129/1.m3u8?
-02-13-2025 checked
-央广购物,http://111.29.9.33:6410/200000001898/460000089800010130/1.m3u8?
-02-13-2025 checked
-央广购物,http://111.29.9.33:6410/200000001898/460000089800010097/1.m3u8?
-02-13-2025 checked
-央广购物,http://111.29.9.33:6410/200000001898/460000089800010132/1.m3u8?
-02-13-2025 checked
-河南卫视,http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-02-12-2025 Shandong checked •1920x1080 FasterFaster
-贵州卫视,http://111.29.9.33:6610/000000001000/1000000002000003169/index.m3u8?channel-id=bestzb&Contentid=1000000002000003169&livemode=1&stbId=3
-02-08-2025 Vega Baja checked •1920x1080
-河北卫视,http://111.29.9.33:6610/000000001000/1000000002000017118/index.m3u8?channel-id=bestzb&Contentid=1000000002000017118&livemode=1&stbId=3
-02-07-2025 Vega Baja checked •1920x1080
-北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3
-02-06-2025 checked
-东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
-02-06-2025 checked
-天津卫视,http://111.29.9.33:6610/000000001000/1000000001000000831/index.m3u8?channel-id=bestzb&Contentid=1000000001000000831&livemode=1&stbId=3
-02-06-2025 checked
-重庆卫视,http://111.29.9.33:6610/000000001000/1000000001000001096/index.m3u8?channel-id=bestzb&Contentid=1000000001000001096&livemode=1&stbId=3
-02-06-2025 checked
-湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
-02-06-2025 checked
-浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3
-02-06-2025 checked
-深圳卫视,http://111.29.9.33:6610/000000001000/1000000001000009227/index.m3u8?channel-id=bestzb&Contentid=1000000001000009227&livemode=1&stbId=3
-02-06-2025 checked
-山东卫视,http://111.29.9.33:6610/000000001000/1000000001000012807/index.m3u8?channel-id=bestzb&Contentid=1000000001000012807&livemode=1&stbId=3
-02-06-2025 checked
-湖北卫视,http://111.29.9.33:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3
-安徽卫视,http://111.29.9.33:6610/000000001000/1000000001000020780/index.m3u8?channel-id=bestzb&Contentid=1000000001000020780&livemode=1&stbId=3
-02-06-2025 checked
-江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
-02-06-2025 checked
-江西卫视,http://111.29.9.33:6610/000000001000/1000000001000013731/index.m3u8?channel-id=bestzb&Contentid=1000000001000013731&livemode=1&stbId=3
-02-06-2025 checked
-广西卫视,http://111.29.9.33:6610/000000001000/1000000002000019837/index.m3u8?channel-id=bestzb&Contentid=1000000002000019837&livemode=1&stbId=3
-02-06-2025 checked
-广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
-02-06-2025 checked
-辽宁卫视,http://111.29.9.33:6610/000000001000/1000000001000001945/index.m3u8?channel-id=bestzb&Contentid=1000000001000001945&livemode=1&stbId=3
-02-06-2025 checked
-吉林卫视,http://111.29.9.33:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-02-06-2025 checked
-四川卫视,http://111.29.9.33:6610/000000001000/1000000002000016825/index.m3u8?channel-id=bestzb&Contentid=1000000002000016825&livemode=1&stbId=3
-02-06-2025 checked
-云南卫视,http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
-02-06-2025 checked
-甘肃卫视,http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
-02-06-2025 checked
-青海卫视,http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
-02-06-2025 checked
-东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3
-02-06-2025 checked
-海南卫视,http://111.29.9.33:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-02-06-2025 checked
-宁夏卫视,http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
-02-06-2025 checked
-新疆卫视,http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
-02-06-2025 checked
-金鹰纪实,http://111.29.9.33:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-02-06-2025 checked
-快乐垂钓,http://111.29.9.33:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-02-06-2025 checked
-都市剧场,http://111.29.9.33:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
-02-06-2025 checked
-游戏风云,http://111.29.9.33:6610/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
-02-06-2025 checked
-魅力足球,http://111.29.9.33:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-02-06-2025 checked
-生活时尚,http://111.29.9.33:6610/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-02-06-2025 checked
-黑莓电影,http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
-02-06-2025 checked
-超级电影,http://111.29.9.33:6610/000000001000/1000000001000012884/index.m3u8?channel-id=bestzb&Contentid=1000000001000012884&livemode=1&stbId=3
-02-06-2025 checked
-家庭剧场,http://111.29.9.33:6610/000000001000/1000000004000008284/index.m3u8?channel-id=bestzb&Contentid=1000000004000008284&livemode=1&stbId=3
-02-06-2025 checked
-惊悚悬疑,http://111.29.9.33:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3
-02-06-2025 checked
-精品大剧,http://111.29.9.33:6610/000000001000/1000000004000013968/index.m3u8?channel-id=bestzb&Contentid=1000000004000013968&livemode=1&stbId=3
-02-06-2025 checked
-明星大片,http://111.29.9.33:6610/000000001000/1000000004000019008/index.m3u8?channel-id=bestzb&Contentid=1000000004000019008&livemode=1&stbId=3
-02-06-2025 checked
-超级体育,http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
-02-06-2025 checked
-超级综艺,http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
-02-06-2025 checked
-金牌综艺,http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
-炫舞未来,http://111.29.9.33:6610/000000001000/1000000001000000515/index.m3u8?channel-id=bestzb&Contentid=1000000001000000515&livemode=1&stbId=3
-02-06-2025 checked
-金鹰卡通,http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-02-06-2025 checked
-哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-02-06-2025 checked
-嘉佳卡通,http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-02-06-2025 checked
-黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
-02-06-2025 checked
-快乐购,http://111.29.9.33:6410/200000001898/460000089800010131/1.m3u8?
-02-13-2025 checked
-优购物,http://111.29.9.33:6410/200000001898/460000089800010088/1.m3u8?
-02-13-2025 checked
-优购物,http://111.29.9.33:6410/200000001898/460000089800010133/1.m3u8?
-02-13-2025 checked
-优购物,http://111.29.9.33:6410/200000001898/460000089800010134/1.m3u8?
-02-13-2025 checked
-茶频道,http://111.29.9.33:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-02-06-2025 checked
-纯享4K,http://111.29.9.33:6610/000000001000/1000000004000011651/index.m3u8?channel-id=bestzb&Contentid=1000000004000011651&livemode=1&stbId=3
-02-20-2025 Hebei checked •3840x2160 Fast
-纯享4K,http://111.29.9.33:6410/200000001898/460000089800010006/1.m3u8?
-02-13-2025 checked
-欢笑剧场4K,http://111.29.9.33:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-02-06-2025 checked
-黑龙江卫视,http://111.29.9.33:6410/200000001898/460000089800010056/1.m3u8?
-02-13-2025 checked
-黑龙江卫视,http://111.29.9.33:6410/200000001898/460000089800010222/1.m3u8?
-02-13-2025 checked
-内蒙古卫视,http://111.29.9.33:6410/200000001898/460000089800010109/1.m3u8?
-02-13-2025 checked
-大湾区卫视,http://111.29.9.33:6410/200000001898/460000089800010108/1.m3u8?
-02-13-2025 checked
-睛彩广场舞,http://111.29.9.33:6410/200000001898/460000089800010233/1.m3u8?
-02-13-2025 checked
-超级电视剧,http://111.29.9.33:6410/200000001898/460000089800010065/1.m3u8?
-02-13-2025 checked
-黑龙江卫视,http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
-02-06-2025 checked
-超级电视剧,http://111.29.9.33:6610/000000001000/1000000001000008139/index.m3u8?channel-id=bestzb&Contentid=1000000001000008139&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-13,http://111.29.9.33:6410/200000001898/460000089800010093/1.m3u8?
-02-20-2025 Vega Baja checked •1920x1080 Fast
-CCTV-10,http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
-02-14-2025 Vega Baja checked •1920x1080 Fast
-CCTV-5+,http://111.29.9.33:6410/200000001898/460000089800010202/1.m3u8?
-02-14-2025 Isfahan checked •1920x1080
-CCTV-10,http://111.29.9.33:6410/200000001898/460000089800010203/1.m3u8?
-02-13-2025 checked
-CCTV-11,http://111.29.9.33:6410/200000001898/460000089800010092/1.m3u8?
-02-13-2025 checked
-CCTV-12,http://111.29.9.33:6410/200000001898/460000089800010205/1.m3u8?
-02-13-2025 checked
-CCTV-14,http://111.29.9.33:6410/200000001898/460000089800010207/1.m3u8?
-02-13-2025 checked
-CCTV-15,http://111.29.9.33:6410/200000001898/460000089800010094/1.m3u8?
-02-13-2025 checked
-CCTV-16,http://111.29.9.33:6410/200000001898/460000089800010142/1.m3u8?
-CCTV-17,http://111.29.9.33:6410/200000001898/460000089800010210/1.m3u8?
-02-13-2025 checked
-中国教育1台,http://111.29.9.33:6410/200000001898/460000089800010103/1.m3u8?
-02-13-2025 checked
-中国教育2台,http://111.29.9.33:6410/200000001898/460000089800010104/1.m3u8?
-02-13-2025 checked
-中国教育4台,http://111.29.9.33:6410/200000001898/460000089800010105/1.m3u8?
-02-13-2025 checked
-CCTV-15,http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
-02-08-2025 Tokyo checked •1920x1080 Fast
-CCTV-5+,http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-11,http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-12,http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
-02-06-2025 checked
-CCTV-17,http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
-02-06-2025 checked
-中国教育1台,http://111.29.9.33:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-02-06-2025 checked
-中国教育4台,http://111.29.9.33:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-02-06-2025 checked
-乐游,http://111.29.9.33:6610/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
-CGTN,http://111.29.9.33:6410/200000001898/460000089800010095/1.m3u8?
-02-13-2025 checked
-CGTN,http://111.29.9.33:6410/200000001898/460000089800010137/1.m3u8?
-02-13-2025 checked
-山东教育卫视,http://111.29.9.33:6410/200000001898/460000089800010112/1.m3u8?
-02-13-2025 checked
-北京纪实科教,http://111.29.9.33:6610/000000001000/1000000001000028380/index.m3u8?channel-id=bestzb&Contentid=1000000001000028380&livemode=1&stbId=3
+广东卫视嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
+08-20-2024 Guangdong checked FasterFaster
+湖南卫视金鹰纪实,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/600/index.m3u8?&encrypt=
+08-19-2024 Shandong checked Fast
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
+10-01-2025 Sichuan checked •1280x720 FasterFaster
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
+09-10-2024 Beijing checked Fast
+咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
+08-05-2024 Guangdong checked Fast
+华视火爆劲片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
+06-03-2025 Hunan checked Fast
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?&encrypt=
+09-11-2024 Guangdong checked Fast
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?&encrypt=
+09-11-2024 Tianjin checked FasterFaster
+华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
+09-11-2024 Guangdong checked Fast
+上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/600/index.m3u8?&encrypt=
+08-21-2024 Fujian checked Fast
+上视纪实人文,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/1000/index.m3u8?&encrypt=
+08-20-2024 Fujian checked Fast
+江苏体育休闲,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?&encrypt=
+08-19-2024 Beijing checked Fast
+每日科幻电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=
+08-16-2024 Anhui checked Fast
+上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
+08-01-2024 Guangdong checked FasterFaster
+SDETV山东教育,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/shandongedu/1000/index.m3u8?&encrypt=
+08-09-2024 Yunnan checked Fast
+云上电影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
+06-10-2025 Yunnan checked Fast
+新片放映厅,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?&encrypt=
+09-11-2024 Beijing checked
+周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=
+09-11-2024 New Taipei City checked Fast
+周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/50/index.m3u8?&encrypt=
+09-11-2024 Fujian checked Fast
+云上直播间,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/150/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked Fast
+内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked Fast
+成龙作品集,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/50/index.m3u8?&encrypt=
+08-16-2024 Yunnan checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/75/index.m3u8?&encrypt=
+07-13-2024 Guangdong checked Fast
+郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?&encrypt=
+07-12-2024 Guangdong checked FasterFaster
+山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
+07-06-2025 Tianjin checked Fast
+山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
+06-28-2025 Guangxi checked FasterFaster
+追剧少女,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002089-75/index.m3u8?&encrypt=
+08-21-2024 Zhejiang checked Fast
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked 
+怀旧老片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/150/index.m3u8?&encrypt=
+08-20-2024 Hebei checked FasterFaster
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-600/index.m3u8?&encrypt=
+08-20-2024 Shandong checked FasterFaster
+江苏影视,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&encrypt=
+08-19-2024 Shandong checked Fast
+宁夏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?&encrypt=
+08-18-2024 Heilongjiang checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=
+08-18-2024 Guangxi checked
+云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
+08-18-2024 Guangdong checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?&encrypt=
+08-18-2024 Shandong checked Fast
+军旅剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/50/index.m3u8?&encrypt=
+08-17-2024 Guangdong checked Fast
+南方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
+08-09-2024 Yunnan checked Fast
+试胆大会,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
+07-15-2024 Yunnan checked Fast
+重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
+06-18-2024 Chongqing checked FasterFaster
+红楼剧场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100178536/150/index.m3u8?&encrypt=
+06-18-2024 Guangdong checked FasterFaster
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+06-17-2024 Shanxi checked FasterFaster
+江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?&encrypt=
+06-16-2024 Jiangsu checked FasterFaster
+CCTV5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?&encrypt=
+09-11-2024 Sichuan checked Fast
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
+08-21-2024 Guangdong checked FasterFaster
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
+08-16-2024 Henan checked Fast
+CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?&encrypt=
+08-16-2024 Henan checked Fast
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+06-17-2024 Guangdong checked FasterFaster
+CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+06-13-2024 Beijing checked FasterFaster
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?&encrypt=
+08-21-2024 Shanghai checked Fast
+CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
+08-21-2024 Shanghai checked Fast
+CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
+08-21-2024 Shaanxi checked Fast
+CCTV1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
+08-20-2024 Yunnan checked Fast
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+08-19-2024 Sichuan checked FasterFaster
+CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
+07-15-2024 Shanxi checked Fast
+CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+07-15-2024 Shanxi checked Fast
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+07-12-2024 Arizona checked Fast
+CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
+06-17-2024 Shanxi checked FasterFaster
+CCTV4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 08-06-2025 Zhejiang checked •1920x1080 FasterFaster
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
@@ -641,125 +259,3 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-广东卫视嘉佳卡通,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?&encrypt=
-08-20-2024 Guangdong checked FasterFaster
-湖南卫视金鹰纪实,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jinyingjishi/600/index.m3u8?&encrypt=
-08-19-2024 Shandong checked Fast
-咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-10-01-2025 Sichuan checked •1280x720 FasterFaster
-咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
-09-10-2024 Beijing checked Fast
-咪咕24小时体育台,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=
-08-05-2024 Guangdong checked Fast
-华视火爆劲片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
-06-03-2025 Hunan checked Fast
-华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/50/index.m3u8?&encrypt=
-09-11-2024 Guangdong checked Fast
-华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/75/index.m3u8?&encrypt=
-09-11-2024 Tianjin checked FasterFaster
-华视浪漫影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
-09-11-2024 Guangdong checked Fast
-上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/600/index.m3u8?&encrypt=
-08-21-2024 Fujian checked Fast
-上视纪实人文,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/1000/index.m3u8?&encrypt=
-08-20-2024 Fujian checked Fast
-江苏体育休闲,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jstiyu/600/index.m3u8?&encrypt=
-08-19-2024 Beijing checked Fast
-每日科幻电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=
-08-16-2024 Anhui checked Fast
-上视东方影视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
-08-01-2024 Guangdong checked FasterFaster
-SDETV山东教育,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/shandongedu/1000/index.m3u8?&encrypt=
-08-09-2024 Yunnan checked Fast
-云上电影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
-06-10-2025 Yunnan checked Fast
-新片放映厅,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?&encrypt=
-09-11-2024 Beijing checked
-周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=
-09-11-2024 New Taipei City checked Fast
-周星驰影院,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/50/index.m3u8?&encrypt=
-09-11-2024 Fujian checked Fast
-云上直播间,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100170828/150/index.m3u8?&encrypt=
-08-21-2024 Guangdong checked Fast
-内蒙古卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
-08-18-2024 Guangdong checked Fast
-成龙作品集,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
-08-18-2024 Guangdong checked Fast
-郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/50/index.m3u8?&encrypt=
-08-16-2024 Yunnan checked Fast
-郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/75/index.m3u8?&encrypt=
-07-13-2024 Guangdong checked Fast
-郭富城影院,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?&encrypt=
-07-12-2024 Guangdong checked FasterFaster
-山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
-07-06-2025 Tianjin checked Fast
-山东卫视,http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-600/index.m3u8?&encrypt=
-06-28-2025 Guangxi checked FasterFaster
-追剧少女,http://hlsbkmgsplive.miguvideo.com/wd-virtuallive5100002089-75/index.m3u8?&encrypt=
-08-21-2024 Zhejiang checked Fast
-辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
-08-21-2024 Guangdong checked 
-怀旧老片,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100074916/150/index.m3u8?&encrypt=
-08-20-2024 Hebei checked FasterFaster
-湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-600/index.m3u8?&encrypt=
-08-20-2024 Shandong checked FasterFaster
-江苏影视,http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&encrypt=
-08-19-2024 Shandong checked Fast
-宁夏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
-08-18-2024 Shandong checked Fast
-甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
-08-18-2024 Shandong checked Fast
-江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/600/index.m3u8?&encrypt=
-08-18-2024 Heilongjiang checked FasterFaster
-江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/50/20190820/index.m3u8?&encrypt=
-08-18-2024 Guangxi checked
-云南卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
-08-18-2024 Guangdong checked FasterFaster
-江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?&encrypt=
-08-18-2024 Shandong checked Fast
-军旅剧场,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5100180303/50/index.m3u8?&encrypt=
-08-17-2024 Guangdong checked Fast
-南方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
-08-09-2024 Yunnan checked Fast
-试胆大会,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
-07-15-2024 Yunnan checked Fast
-重庆卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
-06-18-2024 Chongqing checked FasterFaster
-红楼剧场,http://hlsbkmgsplive.miguvideo.com/wd_r3/virtuallive/5100178536/150/index.m3u8?&encrypt=
-06-18-2024 Guangdong checked FasterFaster
-东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-06-17-2024 Shanxi checked FasterFaster
-江西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/index.m3u8?&encrypt=
-06-16-2024 Jiangsu checked FasterFaster
-CCTV5+,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/600/index.m3u8?&encrypt=
-09-11-2024 Sichuan checked Fast
-CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
-08-21-2024 Guangdong checked FasterFaster
-CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?&encrypt=
-08-16-2024 Henan checked Fast
-CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/50/20200103/index.m3u8?&encrypt=
-08-16-2024 Henan checked Fast
-CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
-06-17-2024 Guangdong checked FasterFaster
-CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
-06-13-2024 Beijing checked FasterFaster
-CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/50/index.m3u8?&encrypt=
-08-21-2024 Shanghai checked Fast
-CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
-08-21-2024 Shanghai checked Fast
-CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/50/index.m3u8?&encrypt=
-08-21-2024 Shaanxi checked Fast
-CCTV1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
-08-20-2024 Yunnan checked Fast
-CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
-08-19-2024 Sichuan checked FasterFaster
-CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
-07-15-2024 Shanxi checked Fast
-CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
-07-15-2024 Shanxi checked Fast
-CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
-CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
-07-12-2024 Arizona checked Fast
-CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
-06-17-2024 Shanxi checked FasterFaster
-CCTV4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8?&encrypt=
