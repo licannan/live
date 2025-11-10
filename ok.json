@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/n7aQiy/k.png;md5;8cf13b6465f75602fb5024c14a06fbe9",
+  "spider": "https://gh-proxy.com/https:/raw.githubusercontent.com/licannan/live/main/l.png;md5;8cf13b6465f75602fb5024c14a06fbe9",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "sites": [
     {
@@ -1219,4 +1219,5 @@
       ]
     }
   ]
+
 }
