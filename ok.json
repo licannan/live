@@ -748,7 +748,7 @@
 {"key": "*水机","name": "*水机", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
 {"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
-{"key": "*番号","name": "*番号","type": 0,"api":"http://fhapi9.com/api.php/provide/vod/"},
+{"key":"*番号","name":"*番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
     {
       "key": "push_agent",
       "name": "🛴手机┃推送",
@@ -1230,4 +1230,5 @@
   ]
 
 }
+
 
