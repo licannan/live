@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.org/https:/raw.githubusercontent.com/licannan/live/main/l.png",
+  "spider": "https://10352.kstore.vip/okpng.png;md5;cdf9e339c8bf69cce63401d76c17aa9c",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "sites": [
     {
@@ -84,6 +84,20 @@
       "timeout": 10
     },
     {
+      "key": "浪酷版",
+      "name": "👓浪酷┃秒播",
+      "type": 3,
+      "api": "csp_TianTianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "site": 2
+      },
+      "timeout": 10
+    },
+    {
       "key": "二小",
       "name": "🦢二小┃4K",
       "type": 3,
@@ -127,20 +141,7 @@
       "changeable": 1,
       "timeout": 30
     },
-    {
-      "key": "浪酷版",
-      "name": "👓浪酷┃秒播",
-      "type": 3,
-      "api": "csp_TianTianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": 2
-      },
-      "timeout": 10
-    },
+
     {
       "key": "小苹果",
       "name": "🍎苹果┃直连",
@@ -390,6 +391,17 @@
       "timeout": 10
     },
     {
+      "key": "盒马短剧",
+      "name": "🦓盒马┃短剧",
+      "type": 3,
+      "api": "csp_HeMaGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "星芽短剧",
       "name": "💖星芽┃短剧",
       "type": 3,
@@ -549,7 +561,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/YJhVp-4r.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/57EAD2E_773_bili_20251204145747516newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -567,7 +579,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/DLYuzBTJ.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/28CD73E_773_biliych_20251204150624308newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -585,7 +597,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/1JTNmUos.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/C7FB4B_773_bilixs_20251204150416832newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -603,7 +615,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/iO5IVxTF.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/41F4D38_773_bilixp_20251204150443351newMediaFile.bmp"
       },
       "timeout": 20
     },
@@ -620,7 +632,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/dXwud0cD.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
       }
     },
     {
@@ -636,7 +648,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/KQ75Lxp5.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
       }
     },
     {
@@ -652,7 +664,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/43ZKwmf_.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3ED04A6_773_biliczkt_20251204150157889newMediaFile.bmp"
       }
     },
     {
@@ -668,7 +680,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mf6984kQ.bmp"
+        "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
       }
     },
     {
@@ -771,6 +783,16 @@
       "changeable": 0,
       "timeout": 25
     },
+    {
+      "key": "djps",
+      "name": "🔍短剧┃搜索",
+      "type": 3,
+      "api": "csp_DjpsGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 25
+    },
 {"key":"百度资源","name":"百度*资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙*资源","name":"卧龙*资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"量子*资源","name":"量子*资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -787,7 +809,7 @@
 {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
 {"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
 {"key":"*番号","name":"*番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
- {
+    {
       "key": "push_agent",
       "name": "🛴手机┃推送",
       "type": 3,
@@ -914,19 +936,19 @@
   ],
   "lives": [
     {
-      "name": "AI直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
       "name": "MIGU",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dmianfeibuhuaqian%26json%3Dtrue",
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+    {
+      "name": "AI直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "timeout": 10
     },
     {
       "name": "电视Live",
@@ -1161,6 +1183,8 @@
     ".*boku.*",
     ".*nivod.*",
     ".*ulivetv.*",
+    "188766.xyz",
+    "4gtv.tv",
     "iill.top"
   ],
   "rules": [
@@ -1266,6 +1290,4 @@
       ]
     }
   ]
-
 }
-
